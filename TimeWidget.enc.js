@@ -10,7 +10,7 @@
  *******************************************************/
 /********************************************************
  * script     : TimeWidget.js
- * version    : 1.5
+ * version    : 1.0
  * author     : snlo
  * date       : 2025-02-03
  * github     : https://github.com/snlo/Scriptable
